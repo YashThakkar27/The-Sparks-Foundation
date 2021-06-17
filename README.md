@@ -7,8 +7,8 @@ This project consist of 10 dummy users.
 
 TECHNOLOGY STACK:
 
---> Front-end : HTML, CSS, Bootstrap & Javascript
+--> HTML, CSS, Bootstrap & Javascript
 
---> Back-end : PHP 
+--> PHP 
 
--->Database : MySQL
+--> MySQL
